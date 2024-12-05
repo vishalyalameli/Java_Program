@@ -1,5 +1,3 @@
-// compile time polymorphism
-
 class Calculator{
   
 int add(int a , int b)
@@ -8,7 +6,7 @@ int add(int a , int b)
 }
 
 int add(int a ,int c , int b){
-   return a + b;
+   return a + b + c;
 }
 
 double add( double a, double b){
