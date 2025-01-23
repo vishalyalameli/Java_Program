@@ -5,6 +5,7 @@ public static void main(String[] args) {
 	int b = 20;
 
     System.out.println("a is " + a + " and b is " + b);
+   
 
 	a = a + b;
 	b = a - b;
