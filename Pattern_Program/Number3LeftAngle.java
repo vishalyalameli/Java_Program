@@ -9,3 +9,15 @@ System.out.println("");
 }
 }
 }
+
+
+/*
+
+ System.out.print(j);
+
+1234567
+12345
+123
+1
+
+*/
