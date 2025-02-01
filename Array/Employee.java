@@ -47,3 +47,22 @@ public class Employee {
     }
     
 }
+
+
+// Enter employee name:
+// Employee Name:
+// Vishal
+// Employee Id:
+// 1
+// Employee Salary:
+// 200000
+// Employee Department:
+// Science
+// Employee Address:
+// Pune
+// ------- You have entered below  details  --
+// Employe Name:Vishal
+// Employe Id:1
+// Employe Salary:200000
+// Employe Depatment:Science
+// Employe Address:
