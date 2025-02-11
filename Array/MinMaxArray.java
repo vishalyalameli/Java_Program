@@ -12,3 +12,6 @@ public class MinMaxArray {
         System.out.println("Largest: " + max);
     }
 }
+
+// Smallest: -1
+// Largest: 8
