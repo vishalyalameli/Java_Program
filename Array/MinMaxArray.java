@@ -13,5 +13,5 @@ public class MinMaxArray {
     }
 }
 
-// Smallest: -1//
-// Largest: 8//
+// Smallest: -1
+// Largest: 8
