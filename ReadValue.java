@@ -9,6 +9,6 @@ class ReadValue {
         
         System.out.println("You entered: " + num);
         
-        s.close();
+        s.close();//
     }
 }
