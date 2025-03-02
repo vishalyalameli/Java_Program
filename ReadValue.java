@@ -12,3 +12,6 @@ class ReadValue {
         s.close();//
     }
 }
+
+// Enter a number: 10
+// You entered: 10
