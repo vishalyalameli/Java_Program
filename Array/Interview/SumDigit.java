@@ -1,24 +1,24 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
-class SumDigit {
-    public static void main(String[] args) {
+// class SumDigit {
+//     public static void main(String[] args) {
         
-        Scanner sc = new Scanner(System.in);
+//         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter Number");
+//         System.out.println("Enter Number");
 
-        int num = sc.nextInt();
+//         int num = sc.nextInt();
 
-        int sum = 0;
+//         int sum = 0;
 
-        while(num >0){
-          int digit = num %10; 
-            sum = sum + digit ;
-            num = num /10;
+//         while(num >0){
+//           int digit = num %10; 
+//             sum = sum + digit ;
+//             num = num /10;
 
-        }
-        System.out.println("Sum of Digit "+ sum);
-        }
+//         }
+//         System.out.println("Sum of Digit "+ sum);
+//         }
 
     
-}
+// }
