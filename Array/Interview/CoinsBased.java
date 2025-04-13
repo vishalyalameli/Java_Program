@@ -22,4 +22,6 @@ public class CoinsBased {
     
 }
  
-// Minimum required:                       Coin-Based Greedy Algorithm
+// Minimum required:   6                    Coin-Based Greedy Algorithm
+//
+//
