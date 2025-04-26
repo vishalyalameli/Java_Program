@@ -1,8 +1,5 @@
 
 import java.util.Scanner;
-
-
-
  class Reversenum {
     public static void main(String[] args) {
         

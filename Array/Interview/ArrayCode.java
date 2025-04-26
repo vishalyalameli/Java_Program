@@ -5,8 +5,9 @@ public class ArrayCode {
         int Max  = arr[0], Min =arr[0], Sum= 0;
 
         for(int num : arr){
-            if(num < Max) Max =num;
-            if(num > Min) Min = num;
+            if(num > Max) Max = num;
+            if(num < Min) Min =num;
+        
             Sum = Sum+ num;
         }
 

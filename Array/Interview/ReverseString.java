@@ -3,10 +3,10 @@ class ReverseString{
 
         String str = "Vishal";
         StringBuffer sb = new StringBuffer(str);
-        System.err.println("");
+        System.out.println("");
         sb.reverse();
         str= sb.toString();
-        System.err.println(str);
+        System.out.println(str);
     }
 }
 //  lahsiV
