@@ -56,3 +56,7 @@ public class ArmstrongNumbers {
     }
 }
  */
+
+
+//  An Armstrong number is a number that is equal to the sum of its own digits each raised to the power of the number of digits in the number.
+//   For example, 153 is an Armstrong number because 1³ + 5³ + 3³ = 153

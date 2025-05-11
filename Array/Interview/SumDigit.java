@@ -17,7 +17,7 @@ class SumDigit {
             num = num /10;
 
         }
-        System.out.println("Sum of Digit "+ sum);
+        System.out.println("Sum of Digit " + sum);
         }
 
     
