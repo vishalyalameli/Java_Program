@@ -21,3 +21,6 @@ public class RecursionEx {
         scanner.close();
     }
 }
+
+// Enter the factorial number 5
+// Factorial number is:5is :120
