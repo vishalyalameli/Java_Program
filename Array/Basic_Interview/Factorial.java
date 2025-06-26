@@ -15,3 +15,4 @@ System.out.println("factorial of" + num + "is " + factorial);
 }
 }
 // factorial of 5 is 120
+//
