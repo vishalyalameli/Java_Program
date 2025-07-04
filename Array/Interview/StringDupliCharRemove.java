@@ -17,3 +17,5 @@ class StringDupliCharRemove {
 
     
 }
+
+//Output:geksfor
