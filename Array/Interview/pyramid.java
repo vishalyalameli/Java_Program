@@ -1,5 +1,5 @@
 
-public class pyramid {
+ class pyramid {
     public static void main(String[] args) {
         int rows = 5;
 
@@ -8,12 +8,24 @@ public class pyramid {
                 System.out.print(" ");
             }
             for (int k = 1; k <= i; k++) {
-                System.out.print("* ");
+                System.out.print(k+ " ");
             }
             System.out.println();
         }
     }
 }
+
+/*
+ 
+Output:
+
+    1 
+   1 2 
+  1 2 3 
+ 1 2 3 4 
+1 2 3 4 5 
+
+ */
 
 
 
