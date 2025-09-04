@@ -15,6 +15,7 @@ const valuesArray = Object.values(person);
 console.log(valuesArray); // Output: ["John", 30, "Bengaluru"]
 console.log(valuesArray1);
 
+
 //Convert Object keys to an Array............................................................
 const person2 = { name: "John", age: 30, city: "Bengaluru" };
 

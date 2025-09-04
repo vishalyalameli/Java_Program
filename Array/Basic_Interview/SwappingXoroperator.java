@@ -15,6 +15,5 @@ System .out.print("a = " + a + " ,b = " + b);
 }
 
 /*
-
 it is use the   bitwise XOR (^) operator
 */

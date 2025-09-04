@@ -3,7 +3,7 @@ class ArrayProgram {
     public static void main(String[] args) {
         int[] arr = { 2, 4, 5, 7, 8, 1, 10 };
 
-        Arrays.sort(arr);
+        Arrays.sort(arr); 
 
         int smallest = arr[0];
         int largest = arr[arr.length - 1];

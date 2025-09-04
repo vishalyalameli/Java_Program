@@ -59,3 +59,23 @@ class EvenAndOdd {
 
     }
 }
+
+/*
+ Output:
+
+Odd Number : 
+1 
+3 
+5 
+7 
+9 
+11 
+Odd Number:6
+ Even Number : 
+2 
+4 
+6 
+8 
+10 
+ Even Number:5
+ */
