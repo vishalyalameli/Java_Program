@@ -161,3 +161,36 @@ Example Method	add()	Math.sqrt(), System.out.println()
 */ 
 
 
+/*
+ This is a method definition in Java. Let's explain each part:
+
+static
+
+Means the method belongs to the class itself, not to an object.
+
+You can call it without creating an object of the class.
+
+Example: MyClass.factorial(5);
+
+int
+
+This is the return type.
+
+It means the method will return an integer value.
+
+In this case, the factorial of n (which is always a number).
+
+factorial
+
+This is the method name.
+
+By convention, method names describe what the method does. Here, it calculates the factorial.
+
+(int n)
+
+This part defines the parameter.
+
+The method accepts one integer argument n.
+
+Whatever number you pass here will be used to calculate its factorial.
+ */
